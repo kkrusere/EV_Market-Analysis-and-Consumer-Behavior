@@ -12,3 +12,9 @@ The project has three primary objectives:
 - **Analyze key trends in the global EV market:** Identify factors driving market growth, segmenting different vehicle types (BEVs, PHEVs, FCEVs) and regional variations. Assess the impact of government policies, charging infrastructure development, and technological advancements on market dynamics.
 - **Understand consumer preferences and purchase behaviors:** Explore factors influencing consumer choices when considering EVs, such as environmental concerns, driving range, cost, charging convenience, brand perception, and lifestyle integration. Identify key demographics and psychographics of potential EV buyers.
 - **Identify and evaluate adoption barriers:** Analyze major factors hindering wider EV adoption, including range anxiety, charging infrastructure limitations, upfront costs, financing options, lack of awareness, and consumer risk aversion. Evaluate the effectiveness of existing initiatives addressing these barriers.
+
+
+3. Methodology <br>
+To achieve these objectives, the project will employ a mixed-methods approach:
+- Quantitative analysis: Analyze existing market data, sales figures, consumer surveys, and government reports to understand market trends and identify key patterns.
+- Literature review: Review academic research and industry reports on EV market analysis, consumer behavior, and adoption barriers.
