@@ -7,13 +7,26 @@ The electric vehicle (EV) market is experiencing rapid growth driven by environm
 
 
 2. Research Objectives <br>
-The project has three primary objectives:
-- **Analyze key trends in the global EV market:** Identify factors driving market growth, segmenting different vehicle types (BEVs, PHEVs, FCEVs) and regional variations. Assess the impact of government policies, charging infrastructure development, and technological advancements on market dynamics.
-- **Understand consumer preferences and purchase behaviors:** Explore factors influencing consumer choices when considering EVs, such as environmental concerns, driving range, cost, charging convenience, brand perception, and lifestyle integration. Identify key demographics and psychographics of potential EV buyers.
-- **Identify and evaluate adoption barriers:** Analyze major factors hindering wider EV adoption, including range anxiety, charging infrastructure limitations, upfront costs, financing options, lack of awareness, and consumer risk aversion. Evaluate the effectiveness of existing initiatives addressing these barriers.
+The project primary objectives:
+> - **Market Analysis for Electric Vehicles:**
+    > - **Market Size and Growth:** Assess the current size of the EV market and its growth trajectory. Understand the number of EVs sold, market share, and trends over time.
+    > - **Market Segmentation:** Divide the market into relevant segments (e.g., by vehicle type, region, or customer demographics). Analyze each segment’s characteristics and potential.
+    > - **Competitor Analysis:** Study who are the major player in the EV market. Identify their strengths, weaknesses, strategies, and market positioning.
+    > - **Regulatory Environment:** Understand government policies, incentives, and regulations affecting EV adoption. These can significantly impact market dynamics.
+    > - **Infrastructure:** Evaluate the availability and development of charging infrastructure. Infrastructure gaps can influence consumer decisions.
+    > - **Supply Chain and Manufacturing:** Analyze the supply chain for EV components, manufacturing processes, and production capacity.
+> - **Consumer Behavior Analysis for Electric Vehicles:**
+    > - **Consumer Preferences:** Investigate what matters most to consumers when choosing an EV. Factors include battery range, charging options, safety features, and price.
+    > - **Psychological Factors:** Understand consumer perceptions, attitudes, and beliefs related to EVs. Consider factors like environmental consciousness and social influence.
+    > - **Economic Considerations:** Assess the total cost of ownership (including purchase price, maintenance, and fuel costs) compared to traditional internal combustion engine (ICE) vehicles.
+    > - **Awareness and Education:** Study consumer awareness levels regarding EVs. Educate potential buyers about EV benefits and dispel myths.
+    > - **Purchase Decision Process:** Map out the steps consumers take from awareness to purchase. Identify pain points and opportunities for improvement.
+    > - **Incentives and Subsidies:** Analyze the impact of government incentives, tax breaks, and rebates on consumer behavior.
+    > - **Charging Behavior:** Explore how consumers charge their EVs—home charging, workplace charging, or public charging stations.
+    > - **Social Influence:** Consider the role of family, friends, and social networks in shaping consumer decisions.
+    > - **Post-Purchase Satisfaction:** Evaluate consumer satisfaction with their EVs. Happy customers are more likely to recommend EVs to others.
 
-
-3. Methodology <br>
+4. Methodology <br>
 To achieve these objectives, the project will employ a mixed-methods approach:
 
 - Literature review: Review academic research and industry reports on EV market analysis, consumer behavior, and adoption barriers.
