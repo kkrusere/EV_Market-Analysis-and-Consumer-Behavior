@@ -8,14 +8,14 @@ The electric vehicle (EV) market is experiencing rapid growth driven by environm
 
 2. Research Objectives <br>
 The project primary objectives:
-> - **Market Analysis for Electric Vehicles:**
+> 1. **Market Analysis for Electric Vehicles:**
     >> - **Market Size and Growth:** Assess the current size of the EV market and its growth trajectory. Understand the number of EVs sold, market share, and trends over time.
     >> - **Market Segmentation:** Divide the market into relevant segments (e.g., by vehicle type, region, or customer demographics). Analyze each segment’s characteristics and potential.
     >> - **Competitor Analysis:** Study who are the major player in the EV market. Identify their strengths, weaknesses, strategies, and market positioning.
     >> - **Regulatory Environment:** Understand government policies, incentives, and regulations affecting EV adoption. These can significantly impact market dynamics.
     >> - **Infrastructure:** Evaluate the availability and development of charging infrastructure. Infrastructure gaps can influence consumer decisions.
     >> - **Supply Chain and Manufacturing:** Analyze the supply chain for EV components, manufacturing processes, and production capacity.
-> - **Consumer Behavior Analysis for Electric Vehicles:**
+> 2. **Consumer Behavior Analysis for Electric Vehicles:**
     >> - **Consumer Preferences:** Investigate what matters most to consumers when choosing an EV. Factors include battery range, charging options, safety features, and price.
     >> - **Psychological Factors:** Understand consumer perceptions, attitudes, and beliefs related to EVs. Consider factors like environmental consciousness and social influence.
     >> - **Economic Considerations:** Assess the total cost of ownership (including purchase price, maintenance, and fuel costs) compared to traditional internal combustion engine (ICE) vehicles.
