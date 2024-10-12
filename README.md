@@ -1,6 +1,6 @@
 ## **Data Science Research Project Proposal:** Electric Vehicle Market Analysis and Consumer Behavior
 
-**Project Title:** Understanding EV Market Trends, Consumer Preferences, and Adoption Barriers
+**Project Title:** Understanding EV Market Trends, Consumer Preferences, and Adoption
 
 1. **Introduction**
 The electric vehicle (EV) market is experiencing rapid growth driven by environmental concerns, technological advancements, and government incentives. However, despite the hype, significant adoption barriers remain. It's crucial to understand the complex interplay of market trends, consumer preferences, and challenges hindering wider EV adoption. This research project is going to be a comprehensive analysis of the EV market and consumer behavior.
